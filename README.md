@@ -53,9 +53,8 @@ git clone https://github.com/Rayan-Madi/facture-pro.git
 cd facture-pro
 
 1 Compiler le programme :
-
 cobc -x -free facture-pro.cob -o facture-pro.exe
-(N'OUBLIEZ PAS DE RECOMPILER LE PROGRAMME CHAQUE FOIS QUE VOUS MODIFIEZ LE CODE !)
+💡 N’oubliez pas : chaque fois que vous modifiez le code, compilez le programme avant de l’exécuter pour voir vos changements en action !
 
 2 Lancer le programme :
 
