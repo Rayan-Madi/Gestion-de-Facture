@@ -34,10 +34,10 @@ Idéal pour :
 
 Avant de commencer, assurez-vous d’avoir :  
 
-1. **Un compilateur COBOL**  
+1. **Un compilateur COBOL**  (obligatoire)
    - Par exemple [GnuCOBOL](https://superbol.eu/developers/windows/)  
-2. **VS Code** pour éditer le code facilement  
-3. **Extensions VS Code recommandées** :  
+2. **VS Code** pour éditer le code facilement  (favorable mmais un autre éditeur peut etre acceptable)
+3. **Extensions VS Code recommandées** :  (obligatoire si vous éditez sur VS Code)
    - `COBOL` (support GnuCOBOL)  
    - `COBOL Language Support`  
 
@@ -55,6 +55,7 @@ cd facture-pro
 1 Compiler le programme :
 
 cobc -x -free facture-pro.cob -o facture-pro.exe
+(N'OUBLIEZ PAS DE RECOMPILER LE PROGRAMME CHAQUE FOIS QUE VOUS MODIFIEZ LE CODE !)
 
 2 Lancer le programme :
 
