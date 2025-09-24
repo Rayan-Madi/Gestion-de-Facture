@@ -8,7 +8,7 @@
 
 ## 👋 Présentation
 
-Bienvenue sur **Facture-Pro**, votre projet COBOL pour générer des factures automatiquement !  
+Bienvenue sur **Facture-Pro**, un  projet COBOL pour générer des factures automatiquement !  
 
 💡 Vous saisissez vos articles, leur quantité et leur prix, et le programme crée un fichier texte `facture.txt` clair et bien formaté.  
 
