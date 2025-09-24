@@ -47,7 +47,7 @@ Avant de commencer, assurez-vous d’avoir :
 
 ## ⚙️ Installation & utilisation
 
-1️⃣ Cloner le dépôt 
+ | Cloner le dépôt |
 ```bash
 git clone https://github.com/Rayan-Madi/facture-pro.git
 cd facture-pro
