@@ -61,7 +61,9 @@ cobc -x -free facture-pro.cob -o facture-pro.exe
 ./facture-pro.exe
 📂 Le fichier facture.txt sera généré automatiquement dans le dossier courant.
 
-📂 Exemple de sortie (facture.txt)
+| SI TOUT FONCTIONNE ALORS | 
+
+- Exemple de sortie (facture.txt)
 =========== FACTURE ===========
 Article              Qte      PU       Total
 -----------------------------------------------
