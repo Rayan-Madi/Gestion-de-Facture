@@ -52,11 +52,11 @@ Avant de commencer, assurez-vous d’avoir :
 git clone https://github.com/Rayan-Madi/facture-pro.git
 cd facture-pro
 
-2️⃣ Compiler le programme :
+1 Compiler le programme :
 
 cobc -x -free facture-pro.cob -o facture-pro.exe
 
-3️⃣ Lancer le programme :
+2 Lancer le programme :
 
 ./facture-pro.exe
 📂 Le fichier facture.txt sera généré automatiquement dans le dossier courant.
